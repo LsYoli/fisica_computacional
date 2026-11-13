@@ -19,7 +19,7 @@ El taller calcula la energía disipada por la fricción con integración de Romb
 | `derivadas_oscilador.png` | C | $v$ y $a$ numéricas frente a las exactas |
 | `programa_pi.f90` | D | $\pi=\int_0^1 4/(1+x^2)\,dx$ con el mismo módulo, sin modificarlo |
 | `resultado_pi.dat` | D | $k_{final}$, evaluaciones, valor de $\pi$ y error |
-| `reporte_taller7.tex` | — | Reporte de una página |
+| `INFORME_TALLER7.pdf | — | Reporte de una página |
 
 ## Cómo ejecutar
 
