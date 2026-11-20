@@ -1,6 +1,6 @@
 # Taller 8: la radiación de cuerpo negro
 
-Física Computacional (106018C) · Diego Fernando Marín Martínez
+Física Computacional (106018C) · Luis Arenas
 
 Constante de Wien, constante de Stefan-Boltzmann y máximo del espectro solar a partir de la ley de Planck, con Fortran y Python en doble precisión.
 
